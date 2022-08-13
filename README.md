@@ -93,5 +93,5 @@ a dictionary and save it to the storage engine.
 
 
 ### Authors
-[] Michael Goboola
-[] Kayongo Johnson Brian
+- [ ] Michael Goboola
+- [ ] Kayongo Johnson Brian
