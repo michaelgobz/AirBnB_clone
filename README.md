@@ -90,3 +90,8 @@ a dictionary and save it to the storage engine.
 `console.py` - It is the command line interpreter from which commands are initiated to perform CRUD operations on the above mentioned models.
 
 `AUTHORS` - Lists all individuals having contributed content to the repository.
+
+
+### Authors
+- [ ] Michael Goboola
+- [ ] Kayongo Johnson Brian
