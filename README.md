@@ -4,7 +4,7 @@ Python
 OOP
  By: Guillaume
  Weight: 5
- Project to be done in teams of 2 people (your team:  Binyam Tegene, Michael Goboola)
+ Project to be done in teams of 2 people (your team: Kayongo Johnson Brian , Michael Goboola)
  Project will start Aug 1, 2022 6:00 AM, must end by Aug 8, 2022 6:00 AM
  will be released at Aug 6, 2022 12:00 PM
  Manual QA review must be done (request it when you are done with the project)
